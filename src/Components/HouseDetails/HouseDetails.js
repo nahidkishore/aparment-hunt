@@ -72,7 +72,7 @@ const HouseDetails = () => {
                  <p > Flat Size : {flatSize} </p>
                  <p  > Floor :{floor} </p>
                  <p > Additional : {additional}</p>
-                 <p > Room Catagori  : {roomCatagori}</p>
+                 <p > Room Catagory  : {roomCatagori}</p>
                  <p > Facilities : {facilities}</p>
              </div>
 
